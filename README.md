@@ -1,4 +1,20 @@
-# 🦞 OpenClaw — Personal AI Assistant
+# IDX Exchange NLP Internship
+
+## Week 0 Setup
+
+Completed:
+
+- Installed OpenClaw locally
+- Installed MySQL
+- Created `idx_exchange` database
+- Imported `rets_property` and `california_sold`
+- Verified database connection with Python
+- Linked WhatsApp channel in OpenClaw
+
+## Files
+
+- `requirements.txt` - Python packages
+- `test_setup.py` - setup verification script# 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
     <picture>
